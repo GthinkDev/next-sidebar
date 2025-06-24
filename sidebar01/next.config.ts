@@ -10,6 +10,9 @@ const nextConfig: NextConfig = {
       },
     ];
   },
+  images: {
+    domains: ["i.imgur.com", "images.unsplash.com", "huaban.com"],
+  },
 };
 
 export default nextConfig;
